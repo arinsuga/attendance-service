@@ -1,0 +1,1 @@
+%CD%\php\php.exe -f process.php
